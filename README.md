@@ -13,7 +13,7 @@ If words begin with a vowel: append with "way"
 If the first letter is q AND next letter is U, then: append both letters to end
                                remove both letters (fruits.shift();)
        Example Input: quiet
-       Example Output: ietqu
+       Example Output: ietquay
 
 If words begin with consonant (include y): append first letter to end
                                remove first letter (fruits.shift();)
